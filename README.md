@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sarabdeep-singh-9110/Leetcode/tree/master/0835-image-overlap) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarabdeep-singh-9110/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sarabdeep-singh-9110/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sarabdeep-singh-9110/Leetcode/tree/master/0835-image-overlap) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarabdeep-singh-9110/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
